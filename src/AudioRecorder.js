@@ -22,7 +22,7 @@ const AudioRecorder = () => {
       }}
     >
       <div>
-        <h1></h1>
+        <h1>Voice Recorder</h1>
       </div>
       <ReactMic
         record={record}
